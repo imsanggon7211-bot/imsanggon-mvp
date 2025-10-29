@@ -4,6 +4,10 @@ Azure OpenAI 서비스를 활용하여 이메일의 내용을 분석하고, 주�
 
 바로가기 : [https://isg-mvp.azurewebsites.net/]
 
+## 🧷 프로젝트에서 사용한 Azure 주요 기술
+- `Azure OpenAI Service` - gpt-4.1-mini
+- `Azure Web App` 
+
 ## ✨ 주요 기능
 
 - **이메일 자동 분석**: 텍스트를 직접 입력하거나 파일을 업로드하여 이메일 내용을 분석합니다.
